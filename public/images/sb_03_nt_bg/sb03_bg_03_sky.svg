@@ -1,0 +1,63 @@
+<svg id="e2affc2c-c2e4-4f4c-8bc0-0224b4f82771" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <style>
+      .b5be4100-f3c7-4118-b3a8-664ed56b81a3 {
+        fill: none;
+      }
+
+      .b591f25b-702d-4df7-ae74-7b18744ab13d {
+        clip-path: url(#b9838804-203b-4bc4-83b9-1fa45784674b);
+      }
+
+      .aa6f38ef-b532-46dc-847a-34d76c80e26b {
+        fill: url(#a5fd9c6d-adee-4245-a4c8-e56087c38e31);
+      }
+
+      .ba9396f5-c6ed-4f86-80a9-4d294e004d79 {
+        clip-path: url(#ac722c9c-974e-43c4-8635-d00bc3f711f5);
+      }
+
+      .a24a9686-d91d-4c66-a022-a647bdc7af1f {
+        clip-path: url(#b1c4546a-c2b1-48fd-a21d-e1e215311140);
+      }
+
+      .fd1ff249-f44d-463d-834f-13d6bf5b55ce {
+        fill: url(#f216ad3e-ceb1-4fb1-bed2-38ad1d4216d8);
+      }
+    </style>
+    <clipPath id="b9838804-203b-4bc4-83b9-1fa45784674b">
+      <rect class="b5be4100-f3c7-4118-b3a8-664ed56b81a3" width="1600" height="900"/>
+    </clipPath>
+    <linearGradient id="a5fd9c6d-adee-4245-a4c8-e56087c38e31" x1="759.07" y1="-549.69" x2="836.41" y2="1495.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0.21" stop-color="#a2d9d8"/>
+      <stop offset="0.22" stop-color="#9ad7d7"/>
+      <stop offset="0.24" stop-color="#86d1d4"/>
+      <stop offset="0.26" stop-color="#7acdd3"/>
+      <stop offset="0.27" stop-color="#76ccd2"/>
+      <stop offset="0.33" stop-color="#7acdd2"/>
+      <stop offset="0.39" stop-color="#86d1d2"/>
+      <stop offset="0.45" stop-color="#9ad6d2"/>
+      <stop offset="0.5" stop-color="#addcd2"/>
+      <stop offset="0.52" stop-color="#b5dfd6"/>
+      <stop offset="0.57" stop-color="#cae8e2"/>
+      <stop offset="0.62" stop-color="#ecf7f4"/>
+      <stop offset="0.64" stop-color="#fff"/>
+      <stop offset="1" stop-color="#c8e5d2"/>
+    </linearGradient>
+    <clipPath id="ac722c9c-974e-43c4-8635-d00bc3f711f5">
+      <rect class="b5be4100-f3c7-4118-b3a8-664ed56b81a3" x="-1620" width="1600" height="900"/>
+    </clipPath>
+    <clipPath id="b1c4546a-c2b1-48fd-a21d-e1e215311140"/>
+    <linearGradient id="f216ad3e-ceb1-4fb1-bed2-38ad1d4216d8" x1="-860.93" y1="-549.69" x2="-783.59" y2="1495.43" xlink:href="#a5fd9c6d-adee-4245-a4c8-e56087c38e31"/>
+  </defs>
+  <g class="b591f25b-702d-4df7-ae74-7b18744ab13d">
+    <rect class="aa6f38ef-b532-46dc-847a-34d76c80e26b" x="-37.89" y="-34.04" width="1668.71" height="945.92"/>
+  </g>
+  <g class="ba9396f5-c6ed-4f86-80a9-4d294e004d79">
+    <g id="bd81aa58-62cd-4967-a57b-7fca47f28618" data-name="Slide 1">
+      <g class="a24a9686-d91d-4c66-a022-a647bdc7af1f">
+        <rect class="fd1ff249-f44d-463d-834f-13d6bf5b55ce" x="-1657.89" y="-34.04" width="1668.71" height="945.92"/>
+      </g>
+    </g>
+  </g>
+</svg>
